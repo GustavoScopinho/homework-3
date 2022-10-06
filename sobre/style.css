@@ -1,0 +1,26 @@
+.container div img {
+  width: 750px;
+  height: 450px;
+  border-radius: 5px;
+}
+
+.lista-loja ul li img {
+  width: 280px;
+  height: 200px;
+  border-radius: 5px;
+}
+
+.container{
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+ul li p {
+  padding-bottom: 20px;
+}
+
+.sobre-text {
+  padding-top: 20px;
+}
